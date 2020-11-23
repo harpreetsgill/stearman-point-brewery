@@ -1,5 +1,13 @@
 /*@import url('../fonts/BrutGothic-Regular.otf');*/
 
+@font-face {
+    font-family: 'brut_gothicregular';
+    src: url('fonts/brutgothic-regular-webfont.woff2') format('woff2'),
+         url('fonts/brutgothic-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
 	font-family: 'Brut Gothic', sans-serif;
 	background-color: #E3EBF1;
